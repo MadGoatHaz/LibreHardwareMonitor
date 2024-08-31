@@ -69,7 +69,7 @@ internal class IT87XX : ISuperIO
 
         // Bit 0x10 of the configuration register should always be 1
         byte configuration = ReadByte(CONFIGURATION_REGISTER, out valid);
-        if (!valid || ((configuration & 0x10) == 0 && chip != Chip.IT8655E && chip != Chip.IT8665E))
+        if (!valid || ((configuration & 0x10) == 0 && chip != Chip.IT8665E))
             return;
 
         FAN_PWM_CTRL_REG = chip switch
