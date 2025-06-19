@@ -23,6 +23,13 @@ You can download the latest release [here](https://github.com/LibreHardwareMonit
 ### Nightly builds
 If you have a **GitHub** account, you can download nightly builds [here](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/actions). Otherwise, you can download the *latest* nightly build [here](https://nightly.link/LibreHardwareMonitor/LibreHardwareMonitor/workflows/master/master/LibreHardwareMonitor-net472.zip).
 
+## ❤️ Support This Project
+
+If you find this project useful, please consider supporting its development. Your contributions help keep the project alive!
+
+- **[Sponsor on GitHub](https://github.com/sponsors/MadGoatHaz)**
+- **[Send a tip via PayPal](https://paypal.me/garretthazlett)**
+
 ## How can I help improve it?
 The LibreHardwareMonitor team welcomes feedback and contributions!<br/>
 You can check if it works properly on your motherboard. For many manufacturers, the way of reading data differs a bit, so if you notice any inaccuracies, please send us a pull request. If you have any suggestions or improvements, don't hesitate to create an issue.
